@@ -23,7 +23,7 @@ CSV and easier to work with than raw MODAQ output.
 ### Quick install from GitHub:
 
 ```bash
-pip install git+https://github.com/NREL-MODAQ2/MODAQ_toolkit.git
+pip install git+https://github.com/MODAQ2/MODAQ_toolkit.git
 ```
 
 For detailed installation options including conda environments, specific versions, and development setup, see the [Installation section](#installation) below.
@@ -154,16 +154,16 @@ Note: MODAQ data always includes a `time` column which should be used for sortin
 
 ### 1. Prerequisites: Install Python/Anaconda
 
-**For NREL Enterprise Users:**
+**For NLR Enterprise Users:**
 
-1. Open "Portal Manager" on your NREL workstation
+1. Open "Portal Manager" on your NLR workstation
 
 ![Portal Manager MacOS](./docs/portal_manager.png)
 
 2. Browse to the Anaconda package
 3. Click "Install" to get the full Anaconda distribution with Python
 
-**For Non-NREL Users:**
+**For Non-NLR Users:**
 
 - Download either:
   - [Anaconda](https://www.anaconda.com/download) (full distribution with many pre-installed packages)
