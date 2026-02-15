@@ -187,7 +187,7 @@ source activate modaq
 For most users who just want to use the package, this is the recommended method:
 
 ```bash
-pip install git+https://github.nrel.gov/Water-Power/modaq_toolkit.git
+pip install git+https://github.com/MODAQ2/MODAQ_toolkit.git
 ```
 
 ### 3. Complete Install (Clone & Development Setup)
@@ -198,10 +198,9 @@ For developers or those who need to modify the code:
 
    ```bash
    # HTTPS (Recommended for most users)
-   git clone https://github.nrel.gov/Water-Power/modaq_toolkit
+   git clone https://github.com/MODAQ2/MODAQ_toolkit.git
 
-   # SSH (For contributors)
-   git clone git@github.nrel.gov:Water-Power/modaq_toolkit.git
+
    ```
 
 2. Navigate to repository:
